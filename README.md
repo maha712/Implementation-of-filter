@@ -40,7 +40,7 @@ Visualize the filtered image using a suitable method (e.g., OpenCV's imshow, Mat
 
 ## Program:
 
-### Developed By   : mahalashm k
+### Developed By   : mahalashmi k
 
 ### Register Number:212222240057
 
